@@ -76,7 +76,7 @@ int main() {
 				cout << "Seu numero foi: " << terceira << " Voce errou, acabaram as tentativas!";
 			}
 		}
-	} //Teste
+	} //Alterei via Github
 	return 0;
 }
 
